@@ -102,10 +102,13 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:eganjido@uwaterloo.ca
+    - label: "Gmail"
+      icon: "fas fa-fw fa-Gmail-square"
+      url: mailto:e.ganjidoost@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-      - label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ganjidoost/"
     - label: "Twitter"
