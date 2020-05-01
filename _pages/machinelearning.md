@@ -4,7 +4,7 @@ permalink: /machine-learning/
 title: "Machine Learning Posts by EG"
 author_profile: true
 header:
-  image: "/images/znet.png"
+  image: "/images/zfnet.png"
 ---
 
 {% include base_path %}

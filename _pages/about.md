@@ -2,12 +2,12 @@
 title: "About"
 permalink: /about/
 header:
-  image: #"/images/Toronto.jpg"
+  image: "/images/alexnet.png.jpg"
 ---
 
-I am a Ph.D. candidate working on Neural Networks specifially on bi-directional models.
+I am a Ph.D. candidate working on Neural Networks specifically on bi-directional models.
 
-<!-- {% include base_path %}
+{% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
@@ -16,4 +16,4 @@ I am a Ph.D. candidate working on Neural Networks specifially on bi-directional 
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
-{% endfor %} -->
+{% endfor %}
