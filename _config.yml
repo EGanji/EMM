@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : "Ehsan Ganjidoost"
-  avatar           : /images/HG.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/HG.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Neural Network Scientist."
   location         : "Toronto, ON"
   email            :
@@ -120,6 +120,9 @@ author:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       url: "https://gitlab.com/EGanji/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/e.ganjidoost/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
