@@ -8,8 +8,8 @@ header:
   overlay_filter: rgb(255, 0, 0, 0.5)
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
-	- label: "More Info"
-	  url: "https://unsplash.com"
+    - label: "Download"
+      url: "https://github.com"
 ---
 
 I am a Ph.D. candidate working on Neural Networks specifically on bi-directional models.
