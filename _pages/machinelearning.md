@@ -1,9 +1,11 @@
 ---
-layout: archive
-permalink: /machine-learning/
 title: "Machine Learning Posts by EG"
+layout: splash
+permalink: /machine-learning/
 author_profile: true
 header:
-  image: "/assets/images/HG.jpg"
+  overlay_image: "/assets/images/HG.jpg"
+  overlay_filter: 0.5
+
 ---
 
