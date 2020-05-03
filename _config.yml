@@ -39,9 +39,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "light" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : "github-dark" # "github-light" (default), "github-dark"
+    theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
@@ -105,12 +105,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:eganjido@uwaterloo.ca
-    - label: "Gmail"
-      icon: "fas fa-fw fa-gmail"
-      url: mailto:e.ganjidoost@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://eganji.github.io/iPage/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ganjidoost"
