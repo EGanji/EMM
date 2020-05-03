@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning Posts by EG"
-layout: splash
+layout: archive
 permalink: /machine-learning/
 author_profile: true
 header:
