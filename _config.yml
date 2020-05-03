@@ -296,3 +296,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  # _portfolio
+  - scope:
+      path: ""
+      type: _portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
