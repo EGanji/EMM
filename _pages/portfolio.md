@@ -2,9 +2,10 @@
 title: Portfolio
 layout: archive
 permalink: /portfolio/
-collection: portfolio
+author_profile: true
+<!-- collection: portfolio
 entries_layout: grid
-classes: wide
+classes: wide -->
 ---
 
 
