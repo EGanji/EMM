@@ -82,9 +82,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/ganjidoost"
-    - "https://www.linkedin.com/in/ganjidoost/"
-    - "https://facebook.com/e.ganjidoost"
+    - "https://twitter.com/"
+    - "https://www.linkedin.com/in/"
+    - "https://facebook.com/"
 
 # Analytics
 analytics:
