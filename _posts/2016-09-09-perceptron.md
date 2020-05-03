@@ -3,7 +3,7 @@ title: "Machine Learning Project: Perceptron"
 date: 2016-09-09
 tags: [machine learning, data science, neural network]
 header:
-  image: "/image/perceptron/perceptron.jpg"
+  image: "/assets/images/zfnet.jpg"
 excerpt: "Machine Learning, Perceptron, Data Science"
 mathjax: "true"
 ---
