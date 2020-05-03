@@ -3,7 +3,7 @@ title: "Machine Learning Project: Perceptron"
 date: 2016-09-09
 tags: [machine learning, data science, neural network]
 header:
-  image: "/assets/images/zfnet.jpg"
+  image: "/assets/images/alexnet.png"
 excerpt: "Machine Learning, Perceptron, Data Science"
 mathjax: "true"
 ---
@@ -52,10 +52,10 @@ head(df)
 Here's some inline code 'x+y'.
 
 Here's some image
-<img src="{{ site.url }}{{ site.baseurl }}/images/zfnet.png" alt="linearly seperable data">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/zfnet.png" alt="linearly seperable data">
 
 Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/zfnet.png)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/zfnet.png)
 
 Here's some math:
 
