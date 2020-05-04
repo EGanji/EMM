@@ -12,8 +12,8 @@ classes: wide
 title: "Foo Bar Identity"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/alexnet.jpg
-  teaser: /assets/images/zfnet.jpg
+  image: /assets/images/zfnet.png
+  teaser: /assets/images/alexnet.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
