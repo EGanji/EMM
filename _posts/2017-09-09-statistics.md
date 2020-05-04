@@ -3,7 +3,8 @@ title: "Machine Learning Project: statistics"
 date: 2017-09-09
 tags: [machine learning, data science, neural network]
 header:
-  overlay_color: "#333"
+  overlay_image: /assets/images/jr-korpa-3.jpg
+  overlay_filter: (255, 0, 0, 0.5)
 excerpt: "Machine Learning, Statistics, Data Science"
 mathjax: "true"
 ---
