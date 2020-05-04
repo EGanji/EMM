@@ -1,5 +1,5 @@
 ---
-title: "Statistical Learning Posts by EG"
+title: "Statistical Learning"
 layout: archive
 permalink: /statistical-learning/
 author_profile: true
