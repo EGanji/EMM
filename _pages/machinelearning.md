@@ -1,7 +1,7 @@
 ---
-title: "Machine Learning Posts by EG"
 layout: archive
 permalink: /machine-learning/
+title: "Machine Learning Posts by EG"
 author_profile: true
 header:
   overlay_image: "/assets/images/HG.jpg"
