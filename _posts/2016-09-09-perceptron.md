@@ -52,10 +52,10 @@ head(df)
 Here's some inline code 'x+y'.
 
 Here's some image
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/zfnet.png" alt="linearly seperable data">
+<img src="{{site.url}}{{site.baseurl}}/assets/images/zfnet.png" alt="linearly seperable data" width="800" height="400">
 
 Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/zfnet.png)
+![alt]({{site.url}}{{site.baseurl}}/assets/images/zfnet.png){:height="50%" width="50%"}
 
 Here's some math:
 

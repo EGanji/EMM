@@ -5,7 +5,7 @@ layout: splash
 excerpt: "This post should [...]"
 header:
   overlay_image: /assets/images/HG.jpg
-  overlay_filter: rgb(4, 25, 59, 0.5)
+  overlay_filter: rgb(51, 3, 5, 0.5)
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Download"
