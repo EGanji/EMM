@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Machine Learning"
-    url: /machine-leraning/
+    url: /machine-learning/
   - title: "Statistical Learning"
     url: /statistical-learning/
   - title: "Gallery"
