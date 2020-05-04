@@ -1,0 +1,17 @@
+---
+title: "Machine Learning Project: statistics"
+date: 2017-09-09
+tags: [machine learning, data science, neural network]
+header:
+  overlay_color: "#333"
+excerpt: "Machine Learning, Statistics, Data Science"
+mathjax: "true"
+---
+
+# H1 Heading
+
+## H2 Heading
+
+### H3 Heading
+
+Here's some basic test.
