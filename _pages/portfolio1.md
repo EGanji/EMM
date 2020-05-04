@@ -8,20 +8,7 @@ entries_layout: grid
 classes: wide -->
 ---
 
-
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
-header:
-  image: /assets/images/alexnet.jpg
-  teaser: /assets/images/zfnet.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: /assets/images/SpiderMan.png
     image_path: assets/images/SpiderMan.png
