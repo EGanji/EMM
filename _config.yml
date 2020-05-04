@@ -275,6 +275,13 @@ compress_html:
     envs: development # disable compression in dev environment
 
 
+# confirgure the portfolio collection by adding the following lines
+Collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path
+
+
 # Defaults
 defaults:
   # _posts
