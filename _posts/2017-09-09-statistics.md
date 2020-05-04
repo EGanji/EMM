@@ -5,6 +5,7 @@ tags: [machine learning, data science, neural network]
 header:
   overlay_image: /assets/images/jr-korpa-3.jpg
   overlay_filter: (255, 0, 0, 0.5)
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Machine Learning, Statistics, Data Science"
 mathjax: "true"
 ---
