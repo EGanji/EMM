@@ -4,7 +4,8 @@ layout: archive
 permalink: /machine-learning/
 author_profile: true
 header:
-  image: "/assets/images/CapitanAmerica.png"
-  overlay_filter: 0.5
+  image: "/assets/images/jr-korpa-2.jpg"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  filter: 0.5
 
 ---
