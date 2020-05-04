@@ -6,7 +6,6 @@ author_profile: true
 header:
   image: "/assets/images/jr-korpa-3.jpg"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  filter: 0.5
 
 ---
 
