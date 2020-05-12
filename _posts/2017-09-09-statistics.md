@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Project: statistics"
+title: Machine Learning Project: statistics
 date: 2017-09-09
 tags: [machine learning, data science, neural network]
 header:
