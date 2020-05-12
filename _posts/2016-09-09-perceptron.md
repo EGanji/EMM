@@ -6,7 +6,7 @@ header:
   overlay_color: "#333"
 excerpt: "Machine Learning, Perceptron, Data Science"
 mathjax: "true"
-collection: Machine Learning
+collection: /machine-learning/
 ---
 
 # H1 Heading
