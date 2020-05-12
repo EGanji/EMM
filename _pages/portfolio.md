@@ -1,15 +1,11 @@
 ---
-title: Portfolio
+title: Foo Bar
 layout: collection
-permalink: /portfolio/
+permalink: /foobar
 collection: portfolio
 entries_layout: grid
 classes: wide
----
 
-
----
-title: "Foo Bar Identity"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/zfnet.png
