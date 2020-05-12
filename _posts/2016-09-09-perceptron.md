@@ -1,12 +1,12 @@
 ---
-title: Machine Learning Project: Perceptron
+collection: Machine Learning
+title: "ML Project: Perceptron"
 date: 2016-09-09
 tags: [machine learning, data science, neural network]
 header:
   overlay_color: "#333"
 excerpt: "Machine Learning, Perceptron, Data Science"
 mathjax: "true"
-collection: machine-learning
 ---
 
 # H1 Heading
