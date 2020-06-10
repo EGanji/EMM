@@ -1,6 +1,6 @@
 ---
-title: "ML Project: Perceptron"
 layout: posts
+title: "ML Project: Perceptron"
 date: 2016-09-09
 tags: [machine learning, data science, neural network]
 header:

@@ -1,6 +1,6 @@
 ---
-title: Statistical Learning
 layout: archive
+title: Statistical Learning
 permalink: /statistical-learning/
 author_profile: true
 header:

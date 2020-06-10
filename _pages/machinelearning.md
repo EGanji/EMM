@@ -1,6 +1,6 @@
 ---
-title: Machine Learning
 layout: collection
+title: Machine Learning
 permalink: /machine-learning/
 author_profile: true
 header:
