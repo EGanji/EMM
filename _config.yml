@@ -53,7 +53,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : # true, false (default)
-search_provider          : lunr # lunr (default), algolia, google
+search_provider          : google # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -100,7 +100,7 @@ author:
   avatar           : "/assets/images/MyPic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Neural Network Scientist."
   location         : "Toronto, ON"
-  email            :
+  email            : e.ganjidoost@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
