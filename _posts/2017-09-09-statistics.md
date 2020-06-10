@@ -1,5 +1,6 @@
 ---
 title: "ML Project: statistics"
+layout: posts
 date: 2017-09-09
 tags: [machine learning, data science, neural network]
 header:
