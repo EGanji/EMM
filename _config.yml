@@ -100,12 +100,12 @@ author:
   avatar           : "/assets/images/MyPic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Neural Network Scientist."
   location         : "Toronto, ON"
-  email            : e.ganjidoost@gmail.com
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:eganjido@uwaterloo.ca
-    - label: "Website"
+    - label: "Webpage"
       icon: "fas fa-fw fa-link"
       url: "https://eganji.github.io/iPage/"
     - label: "Twitter"
@@ -310,5 +310,5 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
