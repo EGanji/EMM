@@ -2,12 +2,19 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Machine Learning"
-    url: /machine-learning/
-  - title: "Statistical Learning"
-    url: /statistical-learning/
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Archive"
+    url: /archive/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "Sample Pages"
+    url: /sample/
+
+
+  # - title: "Sample1"
+  #   url: /sample1/
+  # - title: "Sample2"
+  #   url: /sample1/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -16,3 +23,50 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+bio:
+  - title: "Bio"
+    url: /about/
+  - title: "Academia"
+    url:
+    children:
+      - title: "Education"
+        url: 
+      - title: "Certificates"
+        url:
+      - title: "Publication & Presentation"
+        url:
+      - title: "Awards & Recognitions"
+        url: 
+      - title: "Teaching Experience"
+        url: 
+
+  - title: "Projects"
+    url:
+    children:
+      - title: "Deep Learning"
+        url: 
+      - title: "Machine Learning"
+        url: 
+      - title: "Applied & Optimization"
+        url: 
+      - title: "Others"
+        url: 
+      
+  - title: "CV & Resume"
+    url: /cv-resume/
+    children:
+      - title: "Curriculum Vitae"
+        url: /cv-resume/#curriculum-vitae
+      - title: "Resume"
+        url: /cv-resume/#resume
+
+docs_2:
+  title: "Order"
+  children:
+    - title: "by date"
+      url: /posts-by-date/
+    - title: "by tag"
+      url: /posts-by-tags/
+
+

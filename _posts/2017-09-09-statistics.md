@@ -1,13 +1,18 @@
 ---
-layout: posts
+layout: single
 title: "ML Project: statistics"
 date: 2017-09-09
-tags: [machine learning, data science, neural network]
+tags: [Data Science, Optimization]
 header:
-  overlay_color: "#2e0612"
-excerpt: "Machine Learning, Statistics, Data Science"
+    overlay_image: "/assets/images/net1.jpg"
+    # overlay_color: "#3B444B"
+    teaser: "/assets/images/PythonCode.jpg"
+    
+excerpt: "The lastest projects on statistical learning"
 mathjax: "true"
-collection: Statistical Learning
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 # H1 Heading

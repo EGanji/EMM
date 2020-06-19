@@ -27,4 +27,5 @@ gem "minimal-mistakes-jekyll"#, :github => "mmistakes/minimal-mistakes"
 group :jekyll_plugins do
 	gem "tzinfo", "~> 1.2"
 	gem "tzinfo-data"
+	gem "jekyll-archives"
 end

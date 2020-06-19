@@ -1,13 +1,18 @@
 ---
-layout: posts
+layout: single
 title: "ML Project: Perceptron"
 date: 2016-09-09
-tags: [machine learning, data science, neural network]
+tags: [Machine Learning, Neural Network]
 header:
-  overlay_color: "#333"
-excerpt: "Machine Learning, Perceptron, Data Science"
+    overlay_image: "/assets/images/net1.jpg"
+    # overlay_color: "#3B444B"
+    teaser: "/assets/images/PythonCode.jpg"
+    
+excerpt: "A unique line of text to describe this post that will display in an archive listing and meta description with SEO benefits."
 mathjax: "true"
-collection: machinelearning
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 # H1 Heading
@@ -57,6 +62,7 @@ Here's some image
 <img src="{{site.url}}{{site.baseurl}}/assets/images/zfnet.png" alt="linearly seperable data" width="800" height="400">
 
 Here's another image using Kramdown:
+
 ![alt]({{site.url}}{{site.baseurl}}/assets/images/zfnet.png){:height="50%" width="50%"}
 
 Here's some math:

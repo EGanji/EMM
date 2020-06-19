@@ -6,3 +6,9 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+#particles-js{
+	height: 750px;
+	width: 100%;
+	background: #F2F3F4;
+}

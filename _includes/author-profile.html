@@ -1,8 +1,8 @@
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %}
+<div id="particles-js">
 
 <div itemscope itemtype="https://schema.org/Person">
-
   {% if author.avatar %}
     <div class="author__avatar">
       {% if author.home %}
@@ -249,4 +249,8 @@
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
+</div>
+
+<script type="text/javascript" src="{{site.url}}/assets/js/particles.js"></script>
+<script type="text/javascript" src="{{site.url}}/assets/js/app.js"></script>
 </div>
