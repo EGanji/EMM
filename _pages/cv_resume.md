@@ -12,13 +12,13 @@ toc_label: "Table of content"
 toc_icon: "file-alt"
 
 author_profile: false
-sidebar:
-    nav: "bio"
+# sidebar:
+#     nav: "bio"
 ---
 
 ### Curriculum Vitae
 
-<iframe src="/assets/docs/cv-cosmiclatte.pdf#toolbar=0" width="700px" height="300px"></iframe>
+<iframe src="/assets/docs/cv_cosmiclatte.pdf#toolbar=0" width="700px" height="300px"></iframe>
 
 <a href="/assets/docs/cv_white.pdf">
     <svg class="fas fa-print" aria-hidden="true" viewBox="0 0 10 10">
@@ -27,7 +27,7 @@ sidebar:
 
 ### Resume
 
-<iframe src="/assets/docs/cv-cosmiclatte.pdf#toolbar=0" width="700px" height="300px"></iframe>
+<iframe src="/assets/docs/resume_cosmiclatte.pdf#toolbar=0" width="700px" height="300px"></iframe>
 
 <a href="/assets/docs/resume_white.pdf">
     <svg class="fas fa-print" aria-hidden="true" viewBox="0 0 10 10">

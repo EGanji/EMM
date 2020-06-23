@@ -1,11 +1,12 @@
 body{
-  margin: 0;
-  padding: 0;
-  height: 100vh;
-  color:#333;
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	color:#333;
 }
 
 #particles-js{
-  height:100%;
-  background: #262626;
+	height: 750px;
+	width: 100%;
+	background: #F2F3F4;
 }
