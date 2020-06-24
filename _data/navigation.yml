@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Archive"
     url: /archive/
-  # - title: "Literature"
-  #   url: /literature/
+  - title: "Literature"
+    url: /literature/
   # - title: "Gallery"
   #   url: /gallery/
   # - title: "Sample Pages"
