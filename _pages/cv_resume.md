@@ -18,18 +18,18 @@ author_profile: false
 
 ### Curriculum Vitae
 
-<iframe src="/assets/docs/cv_cosmiclatte.pdf#toolbar=0" width="700px" height="300px"></iframe>
+<iframe src="{{ site.baseurl }}/assets/docs/cv_cosmiclatte.pdf#toolbar=0" width="700px" height="300px"></iframe>
 
-<a href="/assets/docs/cv_white.pdf">
+<a href="{{ site.baseurl }}/assets/docs/cv_white.pdf">
     <svg class="fas fa-print" aria-hidden="true" viewBox="0 0 10 10">
     </svg> Download Printer Friendly Version
 </a>
 
 ### Resume
 
-<iframe src="/assets/docs/resume_cosmiclatte.pdf#toolbar=0" width="700px" height="300px"></iframe>
+<iframe src="{{ site.baseurl }}/assets/docs/resume_cosmiclatte.pdf#toolbar=0" width="700px" height="300px"></iframe>
 
-<a href="/assets/docs/resume_white.pdf">
+<a href="{{ site.baseurl }}/assets/docs/resume_white.pdf">
     <svg class="fas fa-print" aria-hidden="true" viewBox="0 0 10 10">
     </svg> Download Printer Friendly Version
 </a>

@@ -229,6 +229,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-archives
+  - jekyll-scholar
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -282,6 +283,28 @@ Collections:
     output: true
     permalink: /:collection/:path
 
+# Jekyll-scholar configuration
+scholar:
+    style: apa
+    locale: en
+
+    sort_by: none
+    order: ascending
+
+    source: ./_bibliography
+    bibliography: references.bib
+    bibliography_template: "{{reference}}"
+
+    replace_strings: true
+    join_strings:    true
+
+    details_dir:    bibliography
+    details_layout: bibtex.html
+    details_link:   Details
+
+    query: "@*"
+
+
 
 # Defaults
 defaults:
@@ -314,6 +337,6 @@ defaults:
       author_profile: false
       share: true
 
-
+  
 
 

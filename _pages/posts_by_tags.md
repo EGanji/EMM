@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Archive
+title: "Archive"
 permalink: /posts-by-date/
 collection: projects
 entries_layout: grid

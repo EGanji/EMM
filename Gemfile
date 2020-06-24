@@ -28,4 +28,5 @@ group :jekyll_plugins do
 	gem "tzinfo", "~> 1.2"
 	gem "tzinfo-data"
 	gem "jekyll-archives"
+	gem "jekyll-scholar"
 end

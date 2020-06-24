@@ -2,8 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  # - title: "Archive"
-  #   url: /archive/
+  - title: "Archive"
+    url: /archive/
+  # - title: "Literature"
+  #   url: /literature/
   # - title: "Gallery"
   #   url: /gallery/
   # - title: "Sample Pages"
@@ -59,12 +61,55 @@ bio:
       - title: "Resume"
         url: /cv-resume/#resume
 
-docs_2:
-  title: "Order"
+DeepLearning:
+  title: "ANNs"
+  url: /C1-4W/
   children:
-    - title: "by date"
-      url: /posts-by-date/
-    - title: "by tag"
-      url: /posts-by-tags/
+    - title: "Week 1"
+      url: /C1-4W/#week-1---2018-11-11/
+    - title: "Week 2"
+      url: /C1-4W/#week-2---2018-11-12/
+    - title: "Week 3"
+      url: /C1-4W/#week-3---2018-11-18/
+    - title: "Week 4"
+      url: /C1-4W/#week-4---2018-11-13/
 
+  title: "Improving DNNs"
+  url: /C2-3W/
+  children:
+    - title: "Week 1"
+      url: /C2-3W/#week-1---2019-04-17/
+    - title: "Week 2"
+      url: /C2-3W/#week-2---2019-06-27/
+    - title: "Week 3"
+      url: /C2-3W/#week-3---2019-04-17/
 
+  title: "Structring ML Projects"
+  url: /C3-2W/
+  children:
+    - title: "Week 1"
+      url: /C3-2W/#week-1---2019-02-02/
+    - title: "Week 2"
+      url: /C3-2W/#week-2---2018-11-26/
+
+  title: "CNNs"
+  url: /C4-4W/
+  children:
+    - title: "Week 1"
+      url: /C4-4W/#week-1---2019-04-05/
+    - title: "Week 2"
+      url: /C4-4W/#week-2---2019-05-03/
+    - title: "Week 3"
+      url: /C4-4W/#week-3---2019-04-25/
+    - title: "Week 4"
+      url: /C4-4W/#week-4---2019-04-29/
+
+  title: "Sequence Models"
+  url: /C5-3W/
+  children:
+    - title: "Week 1"
+      url: /C5-3W/#week-1---2019-06-17/
+    - title: "Week 2"
+      url: /C5-3W/#week-2---2019-07-02/
+    - title: "Week 3"
+      url: /C5-3W/#week-3---2019-07-08/
