@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "CV & Resume"
-permalink: /cv-resume/
+permalink: /cv_resume/
 # excerpt: "This post should [...]"
 header:
   overlay_image: /assets/images/resume.jpg

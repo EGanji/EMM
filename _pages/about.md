@@ -27,4 +27,4 @@ In addition to research, I am actively learning new things and trying to expand 
 
 I grow up in Tehran and finish high school, undergrad, and master there. Later I joined the industry and worked as a computer engineer for several years. When I moved to Canada, I started a master of mathematics in Computational Mathematics. Later, I began my research in the doctoral program in Neural Networks & Machine Learning, which is my favorite. And this trend will continue.
 
-For more details see my CV/Resume [here](/cv-resume/).
+For more details see my CV/Resume [here]({{ site.baseurl }}/cv_resume/).
