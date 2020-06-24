@@ -7,9 +7,9 @@ header:
   overlay_image: /assets/images/resume.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 
-toc: true
-toc_label: "Table of content"
-toc_icon: "file-alt"
+# toc: true
+# toc_label: "Table of content"
+# toc_icon: "file-alt"
 
 author_profile: false
 # sidebar:

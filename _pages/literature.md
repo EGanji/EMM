@@ -2,7 +2,7 @@
 layout: single
 title: "NN Literature"
 permalink: /literature/
-excerpt: "This post contains paper I have read."
+excerpt: "This post contains my library."
 header:
   overlay_image: /assets/images/literature.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
@@ -18,7 +18,4 @@ author_profile: false
 
 
 
-  ```python
-    def text(n):
-        print(n)
-  ```
+  
